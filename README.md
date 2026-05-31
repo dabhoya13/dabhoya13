@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋, I'm Dabhoya Kishan
 
-<!--
-**dabhoya13/dabhoya13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 .NET Full Stack Developer
 
-Here are some ideas to get you started:
+## 🚀 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Appointment Planner
+- ASP.NET Core Web API
+- SQL Server
+- Clean Architecture
+
+### React Student Management
+- React
+- JavaScript
+- CRUD Operations
+
+### Portfolio Website
+- HTML
+- CSS
+- JavaScript
+
+## 🛠 Skills
+- C#
+- ASP.NET Core
+- Entity Framework
+- SQL Server
+- React
+- JavaScript
+- API Development
+- AWS
+- Github/Gitlab
+- JAVA
+- Full-Stack Development
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/kishan-dabhoya-782a30248
