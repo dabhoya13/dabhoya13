@@ -79,16 +79,6 @@ Full-stack healthcare request platform with role-based workflows and real-time u
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Kishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dabhoya13&show_icons=true&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 <div align="center">
 
 *Open to interesting backend / full-stack opportunities — feel free to reach out.*
