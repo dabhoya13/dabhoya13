@@ -64,8 +64,6 @@ I build scalable web apps end to end — from clean REST APIs and tuned database
 
 ## 🚀 Projects
 
-> Replace the `#` links with your actual repo / live-demo URLs. Delete any row you don't have public.
-
 ### 🩺 HalloDoc Platform
 Full-stack healthcare request platform with role-based workflows and real-time updates.
 **Stack:** .NET Core MVC · LINQ · PostgreSQL · Firebase · Bootstrap
